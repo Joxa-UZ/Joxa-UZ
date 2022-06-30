@@ -1,4 +1,4 @@
-[![HEADER](https://github.com/Joxa-UZ/Joxa-UZ/tree/main/assets/joxauz.png)](https://github.com/)
+[![HEADER](https://github.com/Joxa-UZ/Joxa-UZ/blob/main/assets/joxauz.png)](https://github.com/)
 
 ### 🎮💻❤️🇺🇿
 
