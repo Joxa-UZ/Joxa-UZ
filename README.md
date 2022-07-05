@@ -1,4 +1,4 @@
-<a href="https://t.me/joxaportfolio"><img src="person.png" align="right" height="200"/></a>
+<a href="https://t.me/joxaportfolio"><img src="https://i.pinimg.com/originals/af/c3/ac/afc3ac2a5b6b848ea42312fa86e428c7.png" align="right" height="200"/></a>
 
 # Hi there, I'm Javokhir 👋
 
