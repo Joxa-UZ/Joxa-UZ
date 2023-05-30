@@ -13,8 +13,8 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 
-- 🎓 &nbsp; Najot Ta'lim - FrontEnd Bootcamp.
-- 👨🏻‍💻 &nbsp; Mfaktor and EduOn member. www.eduon.uz
+- 🎓 &nbsp; Najot Ta'lim - FrontEnd Bootcamp finished.
+- 👨🏻‍💻 &nbsp; Mfaktor and EduOn Platform project manager. www.eduon.uz
 - 📝 &nbsp; I share my ideas at [Telegram Blog](https://t.me/JoxaPortfolio)
 - 🌱 &nbsp; Learning JavaScript , React and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: javokhirrustamovuz@gmail.com  
